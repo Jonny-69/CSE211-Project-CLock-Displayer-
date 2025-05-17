@@ -1,4 +1,7 @@
 ![](./resources/official_armmbed_example_badge.png)
+
+##Video of the project
+(https://drive.google.com/file/d/1WXL9r6UcgYQHvQaZC8-ydNfxmtp_yn7V/view)
 # Blinky Mbed OS example
 
 The example project is part of the [Arm Mbed OS Official Examples](https://os.mbed.com/code/) and is the [getting started example for Mbed OS](https://os.mbed.com/docs/mbed-os/latest/quick-start/index.html). It contains an application that repeatedly blinks an LED on supported [Mbed boards](https://os.mbed.com/platforms/).
