@@ -4,7 +4,7 @@
       Ahmed Anas Mohamed    (MCT - 2101082)
       
 ## Video of the project
-      https://drive.google.com/file/d/1WXL9r6UcgYQHvQaZC8-ydNfxmtp_yn7V/view
+      [Embedded Project Video](https://drive.google.com/file/d/1WXL9r6UcgYQHvQaZC8-ydNfxmtp_yn7V/view)
       
 # Blinky Mbed OS example
 
